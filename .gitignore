@@ -1,0 +1,16 @@
+# Игнорируем временные и мусорные папки Unreal Engine
+**/Binaries/
+**/Build/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/.vs/
+**/.vscode/
+**/.idea/
+
+# Игнорируем файлы проектов Visual Studio
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.code-workspace
